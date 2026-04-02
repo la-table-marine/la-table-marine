@@ -1,54 +1,54 @@
 {
     "items": [
         {
-            "title": "Welcome Back <br>to Tastycs",
-            "subtitle": "Hello, new friend!",
+            "title": "Bienvenue à <br>La Table Marine",
+            "subtitle": "Gastronomie marine",
             "image": {
                 "url": "/img/banners/banner-1.jpg",
-                "alt": "cover"
+                "alt": "La Table Marine"
             },
-            "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
+            "text": "Une cuisine raffinée inspirée des trésors de la mer,<br>au cœur de Plaisir.",
             "button1": {
                 "link": "/reservation",
-                "label": "Reservation"
+                "label": "Réserver"
             },
             "button2": {
                 "link": "/menu",
-                "label": "Open Menu"
+                "label": "Notre carte"
             }
         },
         {
-            "title": "Reserve Your <br>Table Today",
-            "subtitle": "Hello, new friend!",
+            "title": "Les saveurs <br>de l'océan",
+            "subtitle": "Produits frais & locaux",
             "image": {
                 "url": "/img/banners/banner-2.jpg",
-                "alt": "cover"
+                "alt": "La Table Marine"
             },
-            "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
+            "text": "Des produits frais sélectionnés chaque matin<br>pour sublimer votre assiette.",
             "button1": {
                 "link": "/reservation-2",
-                "label": "Table Order"
+                "label": "Réserver"
             },
             "button2": {
                 "link": "/shop",
-                "label": "Online shop"
+                "label": "En savoir plus"
             }
         },
         {
-            "title": "Visit to Our<br>Online Shop",
-            "subtitle": "Hello, new friend!",
+            "title": "Réservez votre<br>table en ligne",
+            "subtitle": "Bienvenue !",
             "image": {
                 "url": "/img/banners/banner-3.jpg",
-                "alt": "cover"
+                "alt": "La Table Marine"
             },
-            "text": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
+            "text": "Vivez une expérience gastronomique unique<br>au cœur de Plaisir.",
             "button1": {
                 "link": "/contact",
-                "label": "Find Us"
+                "label": "Réserver"
             },
             "button2": {
                 "link": "/menu-2",
-                "label": "Open Menu"
+                "label": "Notre carte"
             }
         }
     ]
