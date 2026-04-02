@@ -1,67 +1,39 @@
 {
-    "subtitle": "Testimonials",
-    "title": "What Our visitors say",
-    "description": "Porro eveniet, autem ipsam corrupti consectetur cum. <br>Repudiandae dignissimos fugiat sit nam.",
+    "subtitle": "Avis clients",
+    "title": "Ce que disent nos convives",
+    "description": "Découvrez les expériences de nos clients à La Table Marine.",
     "button": {
-        "link": "/about",
-        "label": "More about us"
+        "link": "/",
+        "label": "En savoir plus"
     },
     "items": [
         {
-            "title": "It was very delicious!",
-            "name": "Emma Newman",
+            "title": "Une expérience inoubliable !",
+            "name": "Sophie M.",
             "image": "/img/faces/1.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
+            "text": "Les produits sont d'une fraîcheur exceptionnelle. Le homard était sublime et le service irréprochable. On reviendra sans hésiter !",
+            "date": "12.03.2024"
         },
         {
-            "title": "I'm delighted!",
-            "name": "Viktoria Freeman",
+            "title": "La meilleure table de la région",
+            "name": "Thomas L.",
             "image": "/img/faces/2.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
+            "text": "Un cadre élégant, une cuisine raffinée et des saveurs marines qui nous transportent. La Table Marine est devenue notre restaurant préféré.",
+            "date": "28.02.2024"
         },
         {
-            "title": "I will visit again.",
-            "name": "Paul Trueman",
+            "title": "Produits frais, chef talentueux",
+            "name": "Marie D.",
             "image": "/img/faces/3.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
+            "text": "On sentait que chaque plat était préparé avec passion. Les saint-jacques étaient fondantes, un vrai régal. Je recommande vivement !",
+            "date": "15.02.2024"
         },
         {
-            "title": "The best restaurant!",
-            "name": "Oscar Oldman",
+            "title": "Parfait pour une soirée romantique",
+            "name": "Lucas B.",
             "image": "/img/faces/4.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
-        },
-        {
-            "title": "It was very delicious!",
-            "name": "Emma Newman",
-            "image": "/img/faces/1.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
-        },
-        {
-            "title": "I'm delighted!",
-            "name": "Viktoria Freeman",
-            "image": "/img/faces/2.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
-        },
-        {
-            "title": "I will visit again.",
-            "name": "Paul Trueman",
-            "image": "/img/faces/3.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
-        },
-        {
-            "title": "The best restaurant!",
-            "name": "Oscar Oldman",
-            "image": "/img/faces/4.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eligendi dolorem? Voluptates rem magnam nesciunt ullam hic error sed, minus, accusantium inventore ex reprehenderit ipsum aperiam libero ut, laudantium delectus deleniti debitis quas dolore quos. Accusamus ea saepe, veniam. Nemo.",
-            "date": "02.02.21"
+            "text": "Ambiance feutrée, carte des vins excellente et cuisine gastronomique au top. Notre dîner d'anniversaire était parfait.",
+            "date": "01.02.2024"
         }
     ]
 }

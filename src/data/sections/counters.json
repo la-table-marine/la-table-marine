@@ -1,24 +1,24 @@
 {
     "items": [
         {
-            "value": "200",
+            "value": "15",
             "value_after": "+",
-            "label": "Visitors daily"
+            "label": "Années d'expérience"
         },
         {
-            "value": "400",
+            "value": "500",
             "value_after": "+",
-            "label": "Deliveries monthly"
+            "label": "Clients satisfaits / mois"
         },
         {
             "value": "100",
             "value_after": "%",
-            "label": "Positive feedback"
+            "label": "Produits frais"
         },
         {
-            "value": "40",
+            "value": "30",
             "value_after": "+",
-            "label": "Awards and honors"
+            "label": "Plats à la carte"
         }
     ]
 }
