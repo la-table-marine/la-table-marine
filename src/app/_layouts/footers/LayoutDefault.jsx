@@ -68,7 +68,7 @@ const DefaultFooter = () => {
                 <div className="tst-spacer tst-white tst-spacer-only-bottom-space"></div>
 
                 <div className="tst-footer-bottom">
-                    <div className="tst-text" dangerouslySetInnerHTML={{__html : AppData.footer.copy}} />
+                    <div className="tst-text">© {new Date().getFullYear()} {AppData.footer.copy}</div>
                     <a href="#tst-app" className="tst-label tst-color tst-anchor-scroll" onClick={ (e) => scrollToTop(e) }>Back to top</a>
                 </div>
             </div>

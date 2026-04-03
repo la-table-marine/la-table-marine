@@ -32,9 +32,127 @@
             {
                 "label": "Home",
                 "link": "/",
-                "children": []
+                "children": [
+                    {
+                        "label": "Home slider",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Home image",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Home video",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Onepage",
+                        "link": "/",
+                        "blank": 1
+                    }
+                ]
+            },
+            {
+                "label": "About",
+                "link": "/",
+                "children": [
+                    {
+                        "label": "About Us",
+                        "link": "/"
+                    },
+                    {
+                        "label": "About employee",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Services",
+                        "link": "/"
+                    },
+                    {
+                        "label": "History",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "label": "Menu",
+                "link": "/",
+                "children": [
+                    {
+                        "label": "Menu type 1",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Menu type 2",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "label": "Blog",
+                "link": "/",
+                "children": [
+                    {
+                        "label": "Blog list",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Blog category",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Publication",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "label": "Reserve",
+                "link": "/",
+                "children": [
+                    {
+                        "label": "Reservation (Form)",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Reservation (OpenTable API)",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "label": "Shop",
+                "link": "/",
+                "children": [
+                    {
+                        "label": "Shop Page",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Products List",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Product Page",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Cart Page",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Checkout Page",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "label": "Contact",
+                "link": "/",
+                "children": 0
             }
         ],
+
         "onepage": [
             {
                 "label": "Accueil",
@@ -106,7 +224,7 @@
                 "label": "Voir plus"
             }
         },
-        "copy": "© 2024 La Table Marine. Tous droits réservés."
+        "copy": "La Table Marine. Tous droits réservés."
     },
     "social": [
         {
