@@ -1,14 +1,14 @@
 {
     "image": { 
         "url": "/img/about.jpg",
-        "alt": "cover"
+        "alt": "La Table Marine"
     },
     "video": "https://www.youtube.com/watch?v=SXJqEnauNaY",
     "button": {
         "link": "/about",
-        "label": "Read more"
+        "label": "En savoir plus"
     },
-    "title": "We invite you to<br> visit our restaurant",
-    "subtitle": "About us",
-    "description": "Assumenda possimus eaque illo iste, autem. Porro eveniet, autem ipsam vitae amet repellat repudiandae tenetur, quod corrupti consectetur cum? Repudiandae dignissimos fugiat sit nam. Tempore aspernatur quae repudiandae dolorem, beatae dolorum, praesentium itaque et quam quaerat. Cumque, consequatur!"
+    "title": "Une expérience<br>gastronomique unique",
+    "subtitle": "À propos",
+    "description": "La Table Marine vous ouvre les portes d'une cuisine gastronomique inspirée des richesses de la mer. Situé au 2, rue Pierre Curie à Plaisir, notre restaurant propose une carte élaborée autour de produits frais, soigneusement sélectionnés pour vous offrir une expérience inoubliable."
 }

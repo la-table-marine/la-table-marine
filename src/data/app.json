@@ -1,32 +1,32 @@
 {
     "settings": {
-        "siteName": "Tastycs",
-        "siteDescription": "Cafe & Restaurant React Next.JS Template",
+        "siteName": "La Table Marine",
+        "siteDescription": "Restaurant de gastronomie marine à Plaisir",
         "bgImage": "/img/bg.jpg",
         "formspreeURL": "https://formspree.io/f/YOUR_FORM_ID",
         "mailchimp": {
-            "url": "https://YOUR_MAILCHIMP_COMPANY.us21.list-manage.com/subscribe/post?u=YOUR_MAILCHIMP_FORM_UID&amp;id=YOUR_MAILCHIMP_FORM_ID&amp;f_id=YOUR_MAILCHIMP_FORM_FID",
+            "url": "https://YOUR_MAILCHIMP_COMPANY.us21.list-manage.com/subscribe/post?u=YOUR_MAILCHIMP_FORM_UID&id=YOUR_MAILCHIMP_FORM_ID&f_id=YOUR_MAILCHIMP_FORM_FID",
             "key": "YOUR_MAILCHIMP_KEY"
         },
         "mapbox": {
             "AccessToken": "YOUR_MAPBOX_ACCESS_TOKEN_KEY",
             "style": "mapbox://styles/mapbox/dark-v11",
             "zoom": 15,
-            "long": -79.394900,
-            "lat": 43.643102
+            "long": 1.9574,
+            "lat": 48.8236
         },
         "openTable": {
             "actionUrl": "//www.opentable.com/restaurant-search.aspx",
             "restaurantID": "YOUR_OPENTABLE_RESTAURANT_ID",
             "geoID": "15",
-            "lang": "en-US"
+            "lang": "fr-FR"
         },
         "perPage": 6
     },
     "header": {
         "logo": {
             "image": "/img/logo-sm.png",
-            "alt": "Logo"
+            "alt": "La Table Marine"
         },
         "menu": [
             {
@@ -39,126 +39,127 @@
                     },
                     {
                         "label": "Home image",
-                        "link": "/home-2"
+                        "link": "/"
                     },
                     {
                         "label": "Home video",
-                        "link": "/home-3"
+                        "link": "/"
                     },
                     {
                         "label": "Onepage",
-                        "link": "/onepage",
+                        "link": "/",
                         "blank": 1
                     }
                 ]
             },
             {
                 "label": "About",
-                "link": "/about",
+                "link": "/",
                 "children": [
                     {
                         "label": "About Us",
-                        "link": "/about"
+                        "link": "/"
                     },
                     {
                         "label": "About employee",
-                        "link": "/about-chef"
+                        "link": "/"
                     },
                     {
                         "label": "Services",
-                        "link": "/services"
+                        "link": "/"
                     },
                     {
                         "label": "History",
-                        "link": "/history"
+                        "link": "/"
                     }
                 ]
             },
             {
                 "label": "Menu",
-                "link": "/menu",
+                "link": "/",
                 "children": [
                     {
                         "label": "Menu type 1",
-                        "link": "/menu"
+                        "link": "/"
                     },
                     {
                         "label": "Menu type 2",
-                        "link": "/menu-2"
+                        "link": "/"
                     }
                 ]
             },
             {
                 "label": "Blog",
-                "link": "/blog",
+                "link": "/",
                 "children": [
                     {
                         "label": "Blog list",
-                        "link": "/blog"
+                        "link": "/"
                     },
                     {
                         "label": "Blog category",
-                        "link": "/blog/category/recipes"
+                        "link": "/"
                     },
                     {
                         "label": "Publication",
-                        "link": "/blog/incredible-vegan-mac-and-cheese"
+                        "link": "/"
                     }
                 ]
             },
             {
                 "label": "Reserve",
-                "link": "/reservation",
+                "link": "/",
                 "children": [
                     {
                         "label": "Reservation (Form)",
-                        "link": "/reservation"
+                        "link": "/"
                     },
                     {
                         "label": "Reservation (OpenTable API)",
-                        "link": "/reservation-2"
+                        "link": "/"
                     }
                 ]
             },
             {
                 "label": "Shop",
-                "link": "/shop",
+                "link": "/",
                 "children": [
                     {
                         "label": "Shop Page",
-                        "link": "/shop"
+                        "link": "/"
                     },
                     {
                         "label": "Products List",
-                        "link": "/products"
+                        "link": "/"
                     },
                     {
                         "label": "Product Page",
-                        "link": "/product"
+                        "link": "/"
                     },
                     {
                         "label": "Cart Page",
-                        "link": "/cart"
+                        "link": "/"
                     },
                     {
                         "label": "Checkout Page",
-                        "link": "/checkout"
+                        "link": "/"
                     }
                 ]
             },
             {
                 "label": "Contact",
-                "link": "/contact",
+                "link": "/",
                 "children": 0
             }
         ],
+
         "onepage": [
             {
-                "label": "Home",
+                "label": "Accueil",
                 "link": "#home"
             },
             {
-                "label": "About",
+                "label": "À propos",
                 "link": "#about"
             },
             {
@@ -178,67 +179,52 @@
     "footer": {
         "logo": {
             "url": "/img/logo-sm-white.png",
-            "alt": "Tastycs"
+            "alt": "La Table Marine"
         },
         "about": {
-            "title": "About us",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita repudiandae neque illum aspernatur fugiat maiores id magni, modi, quaerat vitae. Consectetur adipisicing elit.",
+            "title": "À propos",
+            "text": "La Table Marine vous propose une cuisine gastronomique inspirée des saveurs de la mer, dans un cadre raffiné au cœur de Plaisir.",
             "button": {
-                "link": "/menu",
-                "label": "Our Menu"
+                "link": "/",
+                "label": "Notre carte"
             }
         },
         "contact": {
-            "title": "Contact info",
+            "title": "Contact",
             "items": [
                 {
-                    "label": "Call",
-                    "value": "+76 (094) 754 43 7I"
+                    "label": "Email",
+                    "value": "contact@latablemarine.com"
                 },
                 {
-                    "label": "Write",
-                    "value": "your.email.inbox@here.com"
+                    "label": "Adresse",
+                    "value": "2, rue Pierre Curie, 78370 Plaisir"
                 },
                 {
-                    "label": "Find us",
-                    "value": "Canada, Toronto, North Avenue 31B"
+                    "label": "Téléphone",
+                    "value": "(+33)607716979"
                 }
             ],
             "button": {
-                "link": "/contact",
-                "label": "Contact Us"
+                "link": "/",
+                "label": "Nous contacter"
             }
         },
         "gallery": {
-            "title": "Gallery",
+            "title": "Galerie",
             "items": [
-                {
-                    "image": "/img/menu/1.jpg",
-                    "alt": "Gallery Image"
-                },
-                {
-                    "image": "/img/menu/2.jpg",
-                    "alt": "Gallery Image"
-                },
-                {
-                    "image": "/img/menu/3.jpg",
-                    "alt": "Gallery Image"
-                },
-                {
-                    "image": "/img/menu/4.jpg",
-                    "alt": "Gallery Image"
-                },
-                {
-                    "image": "/img/menu/5.jpg",
-                    "alt": "Gallery Image"
-                }
+                { "image": "/img/menu/1.jpg", "alt": "Plat" },
+                { "image": "/img/menu/2.jpg", "alt": "Plat" },
+                { "image": "/img/menu/3.jpg", "alt": "Plat" },
+                { "image": "/img/menu/4.jpg", "alt": "Plat" },
+                { "image": "/img/menu/5.jpg", "alt": "Plat" }
             ],
             "button": {
-                "link": "/history",
-                "label": "See more"
+                "link": "/",
+                "label": "Voir plus"
             }
         },
-        "copy": "© 2024 Tastycs. All rights reserved."
+        "copy": "La Table Marine. Tous droits réservés."
     },
     "social": [
         {
@@ -250,16 +236,6 @@
             "link": "https://instagram.com",
             "title": "Instagram",
             "icon": "fab fa-instagram"
-        },
-        {
-            "link": "https://twitter.com",
-            "title": "Twitter",
-            "icon": "fab fa-twitter"
-        },
-        {
-            "link": "https://youtube.com",
-            "title": "Youtube",
-            "icon": "fab fa-youtube"
         }
     ]
 }

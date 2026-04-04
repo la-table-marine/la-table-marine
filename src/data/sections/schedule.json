@@ -1,41 +1,32 @@
 {
     "image": {
-       "url": "/img/menu/4.jpg",
-       "alt": "cover"
+        "url": "/img/menu/4.jpg",
+        "alt": "La Table Marine"
     },
-    "subtitle": "About us",
-    "title": "Working hours",
-    "description": "Rolorem, beatae dolorum, praesentium itaque et quam quaerat.",
+    "subtitle": "Informations",
+    "title": "Nos horaires",
+    "description": "Réservez votre table et venez profiter d'un moment d'exception.",
     "button1": {
-        "link": "/menu",
-        "label": "Reservation"
+        "link": "/",
+        "label": "Réserver"
     },
     "button2": {
-        "link": "/contact",
-        "label": "Contact us"
+        "link": "/",
+        "label": "Nous contacter"
     },
     "items": [
         {
-            "label": "Sunday to Tuesday",
-            "from": {
-                "hours": "09",
-                "minutes": "00"
-            },
-            "to": {
-                "hours": "22",
-                "minutes": "00"
-            }
-        },
-        {
-            "label": "Friday to Saturday",
-            "from": {
-                "hours": "11",
-                "minutes": "00"
-            },
-            "to": {
-                "hours": "19",
-                "minutes": "00"
-            }
+            "label": "Tous les jours",
+            "slots": [
+                {
+                    "from": { "hours": "12", "minutes": "00" },
+                    "to": { "hours": "14", "minutes": "30" }
+                },
+                {
+                    "from": { "hours": "19", "minutes": "00" },
+                    "to": { "hours": "22", "minutes": "30" }
+                }
+            ]
         }
     ]
 }

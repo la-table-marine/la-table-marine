@@ -1,22 +1,22 @@
 {
-    "subtitle": "Features",
-    "title": "Why people choose us?",
-    "description": "Porro eveniet, autem ipsam vitae consequatur!",
+    "subtitle": "Nos engagements",
+    "title": "Pourquoi nous choisir ?",
+    "description": "La qualité, la fraîcheur et le savoir-faire au service de votre plaisir.",
     "items": [
         {
             "icon": "/img/icons/1.svg",
-            "title": "Menu for every taste",
-            "text": "Dolor sit amet, consectetur adipisicing elit et molestias possimus"
+            "title": "Produits frais de la mer",
+            "text": "Nos poissons et fruits de mer sont sélectionnés chaque matin auprès de pêcheurs locaux."
         },
         {
             "icon": "/img/icons/2.svg",
-            "title": "Always fresh ingredients",
-            "text": "Assumenda possimus eaque illo iste, autem. Porro eveniet autem"
+            "title": "Cuisine gastronomique",
+            "text": "Notre chef élabore des recettes raffinées qui subliment les saveurs marines."
         },
         {
             "icon": "/img/icons/3.svg",
-            "title": "Experienced chefs",
-            "text": "Rolorem, beatae dolorum, praesentium itaque et quam quaerat"
+            "title": "Cadre élégant",
+            "text": "Un espace raffiné et chaleureux pour des moments en famille, entre amis ou en amoureux."
         }
     ]
 }
