@@ -1,19 +1,14 @@
 {
-    "subtitle": "Mobile application",
-    "title": "Download <br>our application",
-    "description": "Quaerat debitis, vel, sapiente dicta sequi <br>labore porro pariatur harum expedita.",
-    "image": {
-        "url": "/img/phone.png",
-        "alt": "phone"
+    "subtitle": "Nous trouver",
+    "title": "2, rue Pierre Curie<br>78370 Plaisir",
+    "description": "Venez nous rendre visite et profiter d'une expérience gastronomique unique autour des saveurs de la mer.",
+    "button": {
+        "link": "https://www.google.com/maps?q=2+rue+Pierre+Curie+78370+Plaisir",
+        "label": "Ouvrir dans Google Maps"
     },
-    "button1": {
-        "icon": "fab fa-app-store",
-        "link": "https://www.apple.com/ua/app-store/",
-        "label": "Appstore"
-    },
-    "button2": {
-        "icon": "fab fa-google-play",
-        "link": "https://play.google.com/store",
-        "label": "Playmarket"
+    "map": {
+        "lat": 48.8236,
+        "lng": 1.9574,
+        "zoom": 15
     }
 }

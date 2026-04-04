@@ -33,13 +33,20 @@ const ScheduleSection = () => {
                 <div className="col-lg-4">
 
                   <div className="tst-wh-frame">
-                    {Data.items.map((item, key) => (
-                    <div className={key == 0 ? "tst-mb-30": ""} key={`schedule-item-${key}`}>
-                      <div className="tst-label tst-mb-15">{item.label}</div>
-                      <div className="h5">{item.from.hours} <span className="tst-color">:</span> {item.from.minutes}</div>
-                      <div className="h5">{item.to.hours} <span className="tst-color">:</span> {item.to.minutes}</div>
-                    </div>
-                    ))}
+                      {Data.items.map((item, key) => (
+                          <div className={key == 0 ? "tst-mb-30" : ""} key={`schedule-item-${key}`}>
+                              <div className="tst-label tst-mb-15">{item.label}</div>
+                              {item.slots.map((slot, i) => (
+                                  <div key={i} className={i > 0 ? "tst-mt-15" : ""}>
+                                      <div className="h5">
+                                          {slot.from.hours} <span className="tst-color">:</span> {slot.from.minutes}
+                                          <span className="tst-color"> — </span>
+                                          {slot.to.hours} <span className="tst-color">:</span> {slot.to.minutes}
+                                      </div>
+                                  </div>
+                              ))}
+                          </div>
+                      ))}
                   </div>
 
                 </div>

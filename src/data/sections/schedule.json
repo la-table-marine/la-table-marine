@@ -16,14 +16,17 @@
     },
     "items": [
         {
-            "label": "Mardi au Vendredi",
-            "from": { "hours": "12", "minutes": "00" },
-            "to": { "hours": "14", "minutes": "30" }
-        },
-        {
-            "label": "Vendredi et Samedi soir",
-            "from": { "hours": "19", "minutes": "00" },
-            "to": { "hours": "22", "minutes": "30" }
+            "label": "Tous les jours",
+            "slots": [
+                {
+                    "from": { "hours": "12", "minutes": "00" },
+                    "to": { "hours": "14", "minutes": "30" }
+                },
+                {
+                    "from": { "hours": "19", "minutes": "00" },
+                    "to": { "hours": "22", "minutes": "30" }
+                }
+            ]
         }
     ]
 }
